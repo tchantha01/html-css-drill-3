@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: lightgray;
+    height: 100px;
+    width: 100%;
+}
+
+.sqr {
+    background-color: rgb(103, 103, 234);
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top: 15pt;
+    left: 15pt;
+}
+
+article {
+    padding: 50px;
+}
+
+.color {
+    height: 20vh;
+}
+
+.stripe1 {
+    background-color: rgb(110, 110, 191);
+}
+
+.stripe2 {
+    background-color: rgb(106, 214, 169);
+}
+
+.stripe3 {
+    background-color:  rgb(194, 228, 124);
+}
+
+.stripe4 {
+    background-color: rgb(230, 196, 109);
+}
+
+.question-mark button {
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 15pt;
+    right: 15pt;
+
+
+}
